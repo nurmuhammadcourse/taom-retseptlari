@@ -5,3 +5,7 @@ __pycache__/
 mahsulotlar.txt
 lugat.txt
 talabalar.csv
+vazifalar.json
+build/
+dist/
+*.spec

@@ -2,6 +2,6 @@
 __pycache__/
 *.pyc
 .env
-*.txt
-!requirements.txt
-*.csv
+mahsulotlar.txt
+lugat.txt
+talabalar.csv
